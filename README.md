@@ -3,3 +3,4 @@
 Exercitii in c++
 - Codare / Decodare parola
 - Revers String
+- Modificarea unui string
